@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://kotlinpractice:4JVz3n6Hcqe1G9BUzJx7YOc9Ae6PosUSanLXZT1VXHufujRmTjV02I37qQP79yzMFUm2zFYaJ1nwACDb5YIjGw==@kotlinpractice.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@kotlinpractice@
+      database: test-dev
+  server:
+    port: 8091
